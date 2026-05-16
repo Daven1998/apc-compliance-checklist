@@ -1,0 +1,16 @@
+title: Algarve Alojamento Local Compliance Checklist
+description: Open-source AL compliance checklist for British villa owners letting in the Algarve. Maintained by Algarve Property Compliance.
+url: https://daven1998.github.io
+baseurl: /apc-compliance-checklist
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author: Algarve Property Compliance
+twitter:
+  card: summary
+social:
+  name: Algarve Property Compliance
+  links:
+    - https://algarvepropertycompliance.com/
